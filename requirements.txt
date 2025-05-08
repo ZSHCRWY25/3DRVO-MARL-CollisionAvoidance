@@ -1,0 +1,5 @@
+python ==3.9.7
+numpy==1.20.3
+putorch==11.8
+gym==0.20.0
+pandas==1.3.4
